@@ -1,4 +1,4 @@
-TOKEN = '8700588806:AAFo_eFDA2n0W00R1PiAHsjgj23CoeyldTI'
+TOKEN = '-'
 
 curr_list = {
     'USD': 'Доллар США',
